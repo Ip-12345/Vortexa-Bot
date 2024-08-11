@@ -102,7 +102,7 @@ const billing: React.FC = () => {
       </div>
       {/* Display the currently active plan */}
       <div className="p-6 bg-primary border shadow-lg rounded-lg mb-6 max-w-4xl mx-auto">
-        <h3 className="text-xl font-bold mb-2 text-yellow-400">{!userSubscription?'Current Active Plan':'Have a Subsciption!'}</h3>
+        <h3 className="text-xl font-bold mb-2 text-yellow-400">Current Plan</h3>
         <p className="text-2xl font-bold mb-4">{freePlan.name}</p>
         <ul className="list-disc pl-5 space-y-1">
           {freePlan.features.map((feature, index) => (
