@@ -34,3 +34,10 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+Technologies used: Next.js, React, TypeScript, PostgreSQL, Gemini API, Clerk, Tailwind CSS [§]
+◦ Smart Bot that assists with coding tasks - writing, explaining, and debugging code efficiently;
+payment feature for advanced assistance.
+◦ Provides plagiarism-free article rewriting and text improvement.
+◦ Generates engaging content for platforms like blogs, social-media.
+◦ Enhances content with emojis, hashtags, and creative suggestions.
