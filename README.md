@@ -83,3 +83,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 [Uploading Internship Report Indupriya.pdf…]()
 
+[Internship Report Indupriya.docx](https://github.com/user-attachments/files/27548194/Internship.Report.Indupriya.docx)
+
+[Internship Report Indupriya (2) (1).pdf](https://github.com/user-attachments/files/27548204/Internship.Report.Indupriya.2.1.pdf)
+
+
+
