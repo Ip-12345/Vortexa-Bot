@@ -87,5 +87,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 [Internship Report Indupriya (2) (1).pdf](https://github.com/user-attachments/files/27548204/Internship.Report.Indupriya.2.1.pdf)
 
+[2206047 Internship End Semester Evaluation.pptx](https://github.com/user-attachments/files/27551506/2206047.Internship.End.Semester.Evaluation.pptx)
+
+
 
 
