@@ -1,3 +1,5 @@
+[Internship Report Indupriya.docx](https://github.com/user-attachments/files/27547061/Internship.Report.Indupriya.docx)
+[Internship Report Indupriya.docx](https://github.com/user-attachments/files/27546960/Internship.Report.Indupriya.docx)[Internship Report Indupriya.docx](https://github.com/user-attachments/files/27546959/Internship.Report.Indupriya.docx)
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 # 🧠 AI Content Generator
