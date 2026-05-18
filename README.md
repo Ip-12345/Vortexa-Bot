@@ -105,6 +105,10 @@ final report pdf:
 [2206047 Final End Semester Internship Report.pdf](https://github.com/user-attachments/files/27656366/2206047.Final.End.Semester.Internship.Report.pdf)
 
 
+ukg ppt:
+[Indupriya Internship Presentation Final.pptx](https://github.com/user-attachments/files/27970261/Indupriya.Internship.Presentation.Final.pptx)
+ukg pdf:
+[Uploading Indupriya Internship Presentation Final.pdf…]()
 
 
 
